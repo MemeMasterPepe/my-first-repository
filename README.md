@@ -1,4 +1,3 @@
 # READ ME #
 
-## Table of contents
-- example_file.txt
+Hello how are you doing today git is pretty cool 

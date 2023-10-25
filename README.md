@@ -1,3 +1,3 @@
 # READ ME #
 
-Hello how are you doing today git is pretty cool 
+Hello im just making a special edit to this for launchschool hopefully this works!
